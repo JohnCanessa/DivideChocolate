@@ -11,7 +11,7 @@ This is a hard problem.
 If interested in my approach and comments I invite you to
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/14/divide-chocolate/
 
 Remember that one of the best ways to learn and refresh concepts
 is to read and experiment.
